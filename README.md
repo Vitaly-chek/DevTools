@@ -1,6 +1,6 @@
 # Task_1 : DevTools
 
-## [Link the video](https://drive.google.com/file/d/17kxiYbTS0xfAk_oJ--88XZTrBFPOgn4P/view?usp=sharing)
+## [Link the video (Сompleted homework)](https://drive.google.com/file/d/17kxiYbTS0xfAk_oJ--88XZTrBFPOgn4P/view?usp=sharing)
 
 1. Открыть Chrome DevTools
 2. Зайти в панель Elements.
